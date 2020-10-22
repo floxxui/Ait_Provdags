@@ -6,7 +6,8 @@ namespace Prov_dags
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Product p1 = new Product();
+            //Fixar så att produkten finns i projektet. Mer en såhär hann jag inte
         }
     }
 }

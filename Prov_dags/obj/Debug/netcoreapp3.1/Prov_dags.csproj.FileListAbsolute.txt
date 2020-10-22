@@ -1,0 +1,13 @@
+C:\Users\sofia.sorensen\Documents\Webbutveckling\VS code\Programmering 2\AitProvdags1\Prov_dags\obj\Debug\netcoreapp3.1\Prov_dags.csprojAssemblyReference.cache
+C:\Users\sofia.sorensen\Documents\Webbutveckling\VS code\Programmering 2\AitProvdags1\Prov_dags\obj\Debug\netcoreapp3.1\Prov_dags.AssemblyInfoInputs.cache
+C:\Users\sofia.sorensen\Documents\Webbutveckling\VS code\Programmering 2\AitProvdags1\Prov_dags\obj\Debug\netcoreapp3.1\Prov_dags.AssemblyInfo.cs
+C:\Users\sofia.sorensen\Documents\Webbutveckling\VS code\Programmering 2\AitProvdags1\Prov_dags\obj\Debug\netcoreapp3.1\Prov_dags.csproj.CoreCompileInputs.cache
+C:\Users\sofia.sorensen\Documents\Webbutveckling\VS code\Programmering 2\AitProvdags1\Prov_dags\bin\Debug\netcoreapp3.1\Prov_dags.exe
+C:\Users\sofia.sorensen\Documents\Webbutveckling\VS code\Programmering 2\AitProvdags1\Prov_dags\bin\Debug\netcoreapp3.1\Prov_dags.deps.json
+C:\Users\sofia.sorensen\Documents\Webbutveckling\VS code\Programmering 2\AitProvdags1\Prov_dags\bin\Debug\netcoreapp3.1\Prov_dags.runtimeconfig.json
+C:\Users\sofia.sorensen\Documents\Webbutveckling\VS code\Programmering 2\AitProvdags1\Prov_dags\bin\Debug\netcoreapp3.1\Prov_dags.runtimeconfig.dev.json
+C:\Users\sofia.sorensen\Documents\Webbutveckling\VS code\Programmering 2\AitProvdags1\Prov_dags\bin\Debug\netcoreapp3.1\Prov_dags.dll
+C:\Users\sofia.sorensen\Documents\Webbutveckling\VS code\Programmering 2\AitProvdags1\Prov_dags\bin\Debug\netcoreapp3.1\Prov_dags.pdb
+C:\Users\sofia.sorensen\Documents\Webbutveckling\VS code\Programmering 2\AitProvdags1\Prov_dags\obj\Debug\netcoreapp3.1\Prov_dags.dll
+C:\Users\sofia.sorensen\Documents\Webbutveckling\VS code\Programmering 2\AitProvdags1\Prov_dags\obj\Debug\netcoreapp3.1\Prov_dags.pdb
+C:\Users\sofia.sorensen\Documents\Webbutveckling\VS code\Programmering 2\AitProvdags1\Prov_dags\obj\Debug\netcoreapp3.1\Prov_dags.genruntimeconfig.cache
